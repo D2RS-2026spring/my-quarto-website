@@ -1,5 +1,5 @@
 ---
-title: "�ҵ�������վ"
+title: "欢迎来到我的个人网站"
 ---
 
 This is a Quarto website.
