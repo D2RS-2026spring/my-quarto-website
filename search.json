@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "欢迎来到我的个人网站",
+    "title": "刘丝弦的个人主页",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "你好！！！\n研究生 数据科学 Quarto 网站   🏫 学校：华中农业大学\n📝 课程：数据驱动的可重复性研究\n🆔 学号：2025303110048\n🔬 方向：土壤学 / 合成菌群 / 微生物组研究"
+  },
+  {
+    "objectID": "index.html#站点统计",
+    "href": "index.html#站点统计",
+    "title": "刘丝弦的个人主页",
+    "section": "📊 站点统计",
+    "text": "📊 站点统计\n\n\n\n2\n\n\n网站页面\n\n\n\n\n1\n\n\n课程网站\n\n\n\n\n✅\n\n\n已成功发布"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于我",
+    "section": "",
+    "text": "专业：土壤学\n研究方向：合成菌群在秸秆还田下对土壤解磷固碳的作用\n技能：R 语言 / Python / Quarto / 微生物组数据分析\n爱好：科研、学习数据分析、探索生态与微生物的秘密"
+  },
+  {
+    "objectID": "about.html#关于我",
+    "href": "about.html#关于我",
+    "title": "关于我",
+    "section": "",
+    "text": "专业：土壤学\n研究方向：合成菌群在秸秆还田下对土壤解磷固碳的作用\n技能：R 语言 / Python / Quarto / 微生物组数据分析\n爱好：科研、学习数据分析、探索生态与微生物的秘密"
+  },
+  {
+    "objectID": "about.html#联系方式",
+    "href": "about.html#联系方式",
+    "title": "关于我",
+    "section": "📬 联系方式",
+    "text": "📬 联系方式\n\n邮箱：3459388744@qq.com\nGitHub：https://github.com/yourusername"
   }
 ]
